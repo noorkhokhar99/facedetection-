@@ -1,4 +1,4 @@
-# OpenCV_projects(Applications)
+# Face detection python opencv
 1. Read and Write Images.        
 2. Detection of faces and its features.        
 3. Detection of shapes like Circle,rectangle etc in a image. E.g Detection of coin in images.        
